@@ -49,11 +49,16 @@ Groww is an online investment platform that allows investors to invest in mutual
 ## Main Pages :
 
 -   [x] Landing Page
+-    <img src="https://i.im.ge/2021/11/12/oYPoMC.png">
 -   [x] Login/SignUp Page
+-   
 -   [x] Dashboard
+-    <img src="https://i.im.ge/2021/11/12/oYPQg4.png">
 -   [x] Buy Stock Page
 -   [x] User Wallet Page
+-    <img src="https://i.im.ge/2021/11/12/oYNBfM.png">
 -   [x] Profile Page
+-    <img src="https://i.im.ge/2021/11/12/oYNerY.png">
   
 <br>
 
@@ -90,6 +95,6 @@ Groww is an online investment platform that allows investors to invest in mutual
 
 ## Contributors
 
-   [`@santoshmcode`](https://www.github.com/santoshmcode)
-   [`@dhirendra9032`](https://www.github.com/dhirendra9032)
-   [`@nitish14920`](https://www.github.com/nitish14920)
+   [`Santosh Mane`](https://www.github.com/santoshmcode)
+   [`Dhirendra Kumar`](https://www.github.com/dhirendra9032)
+   [`Nitish Kumar`](https://www.github.com/nitish14920)
